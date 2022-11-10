@@ -15,7 +15,7 @@ public class RoomSetLogic : MonoBehaviour
     [HideInInspector]
     public void NextRoomCheck(){ // Won't be called due to destroying
 
-        //Lightmapping.Bake();
+        Debug.Log("run run run");
         global = GameObject.Find("Global");
         global_init = global.GetComponent<Initialization>();
 
