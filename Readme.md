@@ -15,19 +15,26 @@ I almost changed everything I built from the last time. Last time was a tree in 
 
 1. Use at least 4 out of the 5 following types:
 
-Point Light (MoonbodyLight, lamp(above top part))\n
+Point Light (MoonbodyLight, lamp(above top part))
+
 Directional Light (SourceLight/Sun)
+
 Spotlight (Rooflight)
+
 Area Light (light around the outside of the housing)
+
 Emissive Material (Orange light, lava particals, lamp top light, wall light)
+
 
 2. Create a lighting transition 
 
 Day-to-night cycle
 
+
 3. Add a particle system 
 
 3D Mesh emitter (Lava)
+
 
 4. "Polished" look 
 
