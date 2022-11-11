@@ -15,7 +15,7 @@ I almost changed everything I built from the last time. Last time was a tree in 
 
 1. Use at least 4 out of the 5 following types:
 
-Point Light (MoonbodyLight, lamp(above top part))
+Point Light (MoonbodyLight, lamp(above top part))\n
 Directional Light (SourceLight/Sun)
 Spotlight (Rooflight)
 Area Light (light around the outside of the housing)
